@@ -1,0 +1,17 @@
+{
+	"name": "mage2pro/ga"
+	,"version": "0.0.1"
+	,"description": "Google Analytics integration with Magento 2"
+	,"type": "magento2-module"
+	,"homepage": "https://github.com/mage2pro/ga"
+	,"license": "MIT"
+	,"authors": [{
+		"name": "Dmitrii Fediuk"
+		,"email": "admin@mage2.pro"
+		,"homepage": "https://upwork.com/fl/mage2pro"
+		,"role": "Developer"
+	}]
+	,"require": {"mage2pro/core": ">=11.5.8"}
+	,"autoload": {"files": ["registration.php"], "psr-4": {"Dfe\\GA\\": ""}}
+	,"keywords": ["Magento 2"]
+}
