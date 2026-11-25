@@ -1,5 +1,5 @@
 <?php
-# 2026-05-30 Dmitrii Fediuk https://upwork.com/fl/mage2pro
+# 2026-05-30 Dmitrii Fediuk https://github.com/dmitrii-fediuk
 use Magento\Framework\Component\ComponentRegistrar as R;
 R::register(R::MODULE, 'Dfe_GA', __DIR__);
 # 2017-11-13
